@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "42746507892",
+    "project_id": "matchswing",
+    "storage_bucket": "matchswing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42746507892:android:09c1574cd0728992079721",
+        "android_client_info": {
+          "package_name": "com.mycompany.matchswing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42746507892-77aveum3n3ljdfpukmar3qth89i09dh0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.matchswing",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "42746507892-em2l1dtlduna8pc6jp307aagchv5f1tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQQVZpZdL8-wPrLFBP4OW81vqQrgDuAaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42746507892-cd48di7bce7et6lvfm1jtn9s100cers5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "42746507892-86oftbu8imgd8pgc8g31tvms77suv7ej.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.matchswing"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42746507892:android:70ce04c5cf401065079721",
+        "android_client_info": {
+          "package_name": "kaleo.chat.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42746507892-em2l1dtlduna8pc6jp307aagchv5f1tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQQVZpZdL8-wPrLFBP4OW81vqQrgDuAaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42746507892-cd48di7bce7et6lvfm1jtn9s100cers5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "42746507892-86oftbu8imgd8pgc8g31tvms77suv7ej.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.matchswing"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
